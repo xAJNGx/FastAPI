@@ -22,3 +22,6 @@ python-jose==3.3.0
 
 #working with form data and not simple JSON, we need a python-multipart library to handle the retrieval of form data
 python-multipart==0.0.6 
+
+#jinja templates
+jinja2
